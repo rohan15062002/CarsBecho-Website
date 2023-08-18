@@ -1,9 +1,4 @@
 
-
-<div align="center">
-  <img alt="Demo" src="/frontend/images/homepage.png" >
-</div>
-
 ## Features
 
 - Full featured shopping cart
