@@ -1,6 +1,4 @@
-## Online Cars Selling Website -[Live Site ](https://team-speed.herokuapp.com/)
 
-## Char pahiya (MERN stack) - [YT Link](https://www.youtube.com/watch?v=k_6blV_VWxk&t=39s)
 
 <div align="center">
   <img alt="Demo" src="/frontend/images/homepage.png" >
