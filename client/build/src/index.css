@@ -1,0 +1,58 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.content{
+  height: 90vh;
+}
+
+.mt-4{
+  margin-top: 1.5rem !important;
+}
+
+
+.navbar{
+  background-color: rgb(170, 170, 200) !important;
+}
+
+
+.register-page{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+  background-color: rgb(141, 201, 200) !important;
+
+}
+
+/* transaction pages  */
+
+.filters{
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 20px;
+  margin-bottom: 10px;
+  box-shadow: 0 0 3px gray;
+}
+
+.anticon svg{
+  font-size:20px;
+  cursor: pointer;
+}
+
+.active-icon{
+  color:black;
+}
+
+.inactive-icon{
+  color:gray;
+}
+
+.switch-icons{
+  border:1px solid rgba(0,0,0,0.677);
+  border-radius: 5px;
+  padding:10px 15px;
+}
